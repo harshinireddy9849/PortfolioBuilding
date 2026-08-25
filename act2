@@ -1,0 +1,20 @@
+ Configured the VS Code workspace for multi-language development and source control.
+ Executed Python and Java code directly from the integrated terminal.
+ Formatted source files automatically using the Prettier code formatter extension.
+ Initialized a local Git repository and staged project files for version tracking.
+ Committed file changes to Git and verified inline commit history using GitLens.
+ Hosted a real-time collaborative coding session using the Live Share extension.
+ Demonstrated concurrent editing and pair programming with a partner's active cursor.
+ 
+
+ 1. Which extension changed your day-to-day typing/editing experience the most?
+Prettier helped me the most because it automatically formatted my code. It saved time and made my code look neat.
+
+2. Which extension is about the code itself vs. collaboration/history?
+Python, Java, and Prettier help with writing and formatting code. GitLens is for code history, and Live Share is for working with others.
+
+3. Which extension would you keep enabled for every project?
+I would keep Prettier and GitLens enabled for every project. I would use the Python and Java extensions only when needed.
+
+4. How did Live Share change pair programming compared to screen sharing?
+Live Share was more interactive because both people could edit the same code at the same time instead of one person only watching.
