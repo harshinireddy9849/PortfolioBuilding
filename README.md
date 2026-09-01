@@ -22,3 +22,10 @@ This document details the setup of the C/C++ development environment in Visual S
 ## Notes & Troubleshooting
 - Installed Xcode Command Line Tools (`xcode-select --install`) to enable standard C/C++ build tools.
 - Cleared previous terminal output to ensure clean execution log.
+
+## Collaboration Log
+
+- Pairing partner: Chethana poorvi
+- GitHub username: @Euna308
+- What we built: Added a greet() function to greet a person by name.
+- What I learned: I learned how GitLens can show who changed each line and how Live Share allows two people to code together in real time.
